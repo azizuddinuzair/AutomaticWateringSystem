@@ -84,7 +84,7 @@ While many automated watering systems already exist, this project introduces an 
 ---
 
 ## Build Notes (Hardware Setup)
-⚠️ **IMPORTANT:** Ensure all Arduinos share a common ground.
+**IMPORTANT:** Ensure all Arduinos share a common ground.
 
 ### Sensor Hub Arduino
 - TX (Pin 1) → Main Controller RX (Pin 0)
