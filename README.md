@@ -46,7 +46,7 @@ This combination of functionality and creativity encourages user interaction and
 
 ## Communication Between Arduinos
 All four Arduinos communicate using **serial communication** via RX (pin 0) and TX (pin 1).  
-⚠️ **Important:** All Arduinos must share a common ground.
+**Important:** All Arduinos must share a common ground.
 
 ### Data Flow
 1. Sensor Hub collects environmental data and sends it to the Main Controller  
